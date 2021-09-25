@@ -12,8 +12,8 @@ Para criar o projeto crie em seu computador uma pasta com o nome que desejar, po
 
 Abra a pasta no VS Code.
 
-No terminal integrado do VS Code digite o comando:  `npm create-react-app <nome-do-projeto>`
-No meu caso utilizei: `npm create-react-app github-app`
+No terminal integrado do VS Code digite o comando:  `npx create-react-app <nome-do-projeto>`
+No meu caso utilizei: `npx create-react-app github-app`
   
 Aguarde um tempinho que o VS Code irá criar a estrutura do projeto.
 
