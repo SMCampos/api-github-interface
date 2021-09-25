@@ -4,8 +4,8 @@ Projeto desenvolvido durante estudos nos Bootcamps ministrados pela Digital Inno
 tendo como instrutor Matheus Benites
 
 Para criar esse projeto usaremos React Js
-Também é necessário ter instalado no computador o ###Node.js (https://nodejs.org/pt-br/)
-e o Gerenciador de Pacotes #npm, que já será instalado junto com o Node.js 
+Também é necessário ter instalado no computador o Node.js (https://nodejs.org/pt-br/)
+e o Gerenciador de Pacotes NPM, que já será instalado junto com o Node.js 
 
 Para desenvolver o projeto utilizamos o Visual Studio Code (VS Code).
 
@@ -13,12 +13,12 @@ Para criar o projeto crie em seu computador uma pasta com o nome que desejar, po
 
 Abra a pasta no VS Code.
 
-No terminal integrado do VS Code digite o comando: ###npm create-react-app <nome-do-projeto>
-No meu caso utilizei: npm create-react-app github-app
+No terminal integrado do VS Code digite o comando: ### `npm create-react-app <nome-do-projeto>`
+No meu caso utilizei: `npm create-react-app github-app`
   
 Aguarde um tempinho que o VS Code
 
-Ainda no terminal integrado navegue para a pasta que foi criada utilize o comando: cd github-app
+Ainda no terminal integrado navegue para a pasta que foi criada utilize o comando: `cd github-app`
 
 Após se certificar que está na pasta correta você precisa instalar algumas bibliotecas:
 
