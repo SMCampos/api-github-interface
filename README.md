@@ -1,7 +1,7 @@
 # Projeto utilizando a API do Github para consultar Usuários e seus repositórios
 
 Projeto desenvolvido durante estudos nos Bootcamps ministrados pela Digital Innovation One
-tendo como instrutor Matheus Benites
+tendo como instrutor [Matheus Benites](https://www.linkedin.com/in/benites-amorim/)
 
 Para criar esse projeto usaremos React Js
 Também é necessário ter instalado no computador o Node.js (https://nodejs.org/pt-br/)
